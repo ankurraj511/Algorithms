@@ -1,1 +1,1 @@
-# string_algorithms
+# Algorithms
